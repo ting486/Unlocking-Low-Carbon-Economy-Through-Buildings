@@ -7,5 +7,5 @@ While the roadmap aims to reduce carbon emissions as efficiently as possible, th
 Based on this background, Economics Student Association (ESA) x Vancouver School of Economics Undergradate Society (VSEUS) of the University of British Columbia (UBC) have jointly hosted an intensive 2-day case competition to encourage students to provide solutions to promote green economy.
 The question to be answered is: **How Can British Columbia Finance and Implement The Transition to a Low Carbon Economy In a Way That Strengthens BC’s Economy?**
 
-Our team (3 people) presented our solutions to answer this question by focusing on the buildings sector, where we used data analysis and machine learning to analyze the factors that affect a building's carbon efficiency, as well as provided in-depth analysis for each of our proposed solutions.
+Our team (I, @SameerShankar and Anusha Jindgar) presented our solutions to answer this question by focusing on the buildings sector, where we used data analysis and machine learning to analyze the factors that affect a building's carbon efficiency, as well as provided in-depth analysis for each of our proposed solutions.
 Please see the PowerPoint for details.
